@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 some random content
+=======
+arn:aws:kms:us-east-1:111122223333:key/00000000-1111-2222-aaaa-ffffffffffff
+>>>>>>> test-RPM-arm64-07d2e8fb-76a9-41b8-9afc-d0b658ab0a0c-sens-arn
